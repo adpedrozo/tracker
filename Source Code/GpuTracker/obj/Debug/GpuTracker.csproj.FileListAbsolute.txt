@@ -1,0 +1,22 @@
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\GpuTracker\bin\Debug\GpuTracker.exe.config
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\GpuTracker\bin\Debug\GpuTracker.exe
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\GpuTracker\bin\Debug\GpuTracker.pdb
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\GpuTracker\obj\Debug\GpuTracker.csprojAssemblyReference.cache
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\GpuTracker\obj\Debug\GpuTracker.FormInicial.resources
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\GpuTracker\obj\Debug\GpuTracker.Properties.Resources.resources
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\GpuTracker\obj\Debug\GpuTracker.csproj.GenerateResource.cache
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\GpuTracker\obj\Debug\GpuTracker.exe
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\GpuTracker\obj\Debug\GpuTracker.pdb
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\GpuTracker\obj\Debug\GpuTracker.FormNvidia.resources
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\obj\Debug\GpuTracker.csprojAssemblyReference.cache
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\obj\Debug\GpuTracker.FormNvidia.resources
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\obj\Debug\GpuTracker.FormInicial.resources
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\obj\Debug\GpuTracker.Properties.Resources.resources
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\obj\Debug\GpuTracker.csproj.GenerateResource.cache
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\obj\Debug\GpuTracker.FormRadeon.resources
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\bin\Debug\Desktop GPU Tracker.exe.config
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\bin\Debug\Desktop GPU Tracker.exe
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\bin\Debug\Desktop GPU Tracker.pdb
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\obj\Debug\Desktop GPU Tracker.exe
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\obj\Debug\Desktop GPU Tracker.pdb
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\obj\Debug\GpuTracker.FormVersus.resources

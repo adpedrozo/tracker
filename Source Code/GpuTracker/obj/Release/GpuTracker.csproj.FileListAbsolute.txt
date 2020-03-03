@@ -1,0 +1,12 @@
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\bin\Release\Desktop GPU Tracker.exe.config
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\bin\Release\Desktop GPU Tracker.exe
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\bin\Release\Desktop GPU Tracker.pdb
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\obj\Release\GpuTracker.csprojAssemblyReference.cache
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\obj\Release\GpuTracker.FormRadeon.resources
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\obj\Release\GpuTracker.FormNvidia.resources
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\obj\Release\GpuTracker.FormInicial.resources
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\obj\Release\GpuTracker.FormVersus.resources
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\obj\Release\GpuTracker.Properties.Resources.resources
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\obj\Release\GpuTracker.csproj.GenerateResource.cache
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\obj\Release\Desktop GPU Tracker.exe
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\GpuTracker\GpuTracker\obj\Release\Desktop GPU Tracker.pdb

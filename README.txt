@@ -1,4 +1,4 @@
-MrCrypt v1.0.0.1 (Portable)
+Desktop GPU Tracker v1.0.0.1 (Portable)
 
 This program is free to distribute.
 Nvidia & AMD Radeon brands and logos are used for non-commercial and informational purposes.
